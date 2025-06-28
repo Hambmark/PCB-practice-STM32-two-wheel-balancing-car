@@ -1,0 +1,63 @@
+Altium Designer Pick and Place Locations
+C:\Users\19093\Documents\PCB Project\2222510036+栦旽\PRJ\Project Outputs for BalanceCar_V1\Pick Place for BalanceCar.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       26/06/24
+Time:       20:30
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mil
+
+Designator Comment       Layer    Footprint                        Center-X(mil) Center-Y(mil) Rotation 
+J5         DC005-2.5MM   TopLayer DC-IN-TH_DC005                   464.941       522.419       0        
+U1         MPU6050       TopLayer QFN-24_L4.0-W4.0-P0.50-BL        2282.874      1488.701      90       
+C23        100uF/25V     TopLayer C0603                            1305.000      445.000       0        
+C22        100uF/25V     TopLayer C0603                            745.000       510.000       270      
+C21        100uF/25V     TopLayer C0603                            2105.000      705.000       0        
+C18        100uF/25V     TopLayer C0603                            1535.000      625.000       90       
+C4         100uF/25V     TopLayer C0603                            1200.000      1715.000      270      
+C2         100uF/25V     TopLayer C0603                            1915.000      2305.000      270      
+U3         LM7805CTG     TopLayer TO-220-3_L10.2-W4.5-P2.54-L      1170.000      590.000       0        
+R8         "1K次 ㊣1%"     TopLayer R0603                            1905.000      2610.000      180      
+J7         CON6-2.54     TopLayer HDR-TH_6P-P2.54-V-M              1575.079      91.102        180      
+J6         CON6-2.54     TopLayer HDR-TH_6P-P2.54-V-M              1575.079      3063.543      180      
+J1         SW            TopLayer SW-SMD_4P-L6.0-W6.0              272.992       2066.500      0        
+D2         "綻腑 0603"     TopLayer LED-0603_S1                      2104.685      2610.000      180      
+C13        "1uF /25V"    TopLayer C0603                            670.000       1975.000      0        
+U5         TB6612FNG     TopLayer SSOP-24_L8.4-W5.8-P0.65-LS7.8-BL 1023.795      1247.875      180      
+U4         HDSP-7801     TopLayer LED-SEG-SMD_HDSP-7801            776.221       2852.323      0        
+Y1         16MHz         TopLayer CRYSTAL-SMD_L3.2-W1.5            1935.669      2000.433      270      
+VR1        AMS1117-3.3   TopLayer SOT-223                          1835.000      665.000       180      
+U2         STM32F103C8T6 TopLayer LQFP-48_L7.0-W7.0                1424.376      2015.866      90       
+R7         "10K次 ㊣1%"    TopLayer R0603                            2495.000      615.000       0        
+R6         "1K次 ㊣1%"     TopLayer R0603                            2495.000      700.000       0        
+R5         "1K次 ㊣1%"     TopLayer R0603                            535.000       3055.000      0        
+R4         "10K次 ㊣1%"    TopLayer R0603                            670.000       2155.000      0        
+R3         "4.7K次 /㊣5%"  TopLayer R0603                            2665.000      1435.000      0        
+R2         "10K次 /㊣5%"   TopLayer R0603                            2045.000      1135.000      270      
+R1         "10K次 /㊣5%"   TopLayer R0603                            1965.000      1135.000      270      
+Q1         S8050         TopLayer SOT-23-3                         2490.000      485.000       90       
+J4         CON3-2.54     TopLayer DIP-3P-2.54-W                    2800.000      423.425       90       
+J3         SIP4-CON4     TopLayer DIP-4P-2.54-N                    80.000        2555.000      90       
+J2         CON3-2.54     TopLayer DIP-3P-2.54-W                    2806.888      2726.875      90       
+D1         "B5819W  SL"  TopLayer SOD-123                          1140.000      445.000       0        
+C24        100nF/25V     TopLayer C0603                            880.000       510.000       90       
+C20        100nF/25V     TopLayer C0603                            2105.000      620.000       180      
+C19        100nF/25V     TopLayer C0603                            1440.000      625.000       270      
+C17        12pF/25V      TopLayer C0603                            1840.000      2075.000      90       
+C16        12pF/25V      TopLayer C0603                            1840.000      1925.000      270      
+C14        100uF/25V     TopLayer C0603                            1200.000      2290.000      90       
+C15        "100nF /25V"  TopLayer C0603                            1090.000      2290.000      270      
+C12        0.1uF/25V     TopLayer C0603                            2665.000      1615.000      180      
+C11        "2.2nF /25V"  TopLayer C0603                            2220.000      1320.000      0        
+C10        "10nF /25V"   TopLayer C0603                            2075.000      1510.000      270      
+C9         "100nF /25V"  TopLayer C0603                            2310.000      1930.000      270      
+C8         "100nF /25V"  TopLayer C0603                            2025.000      2305.000      90       
+C5         100uF/25V     TopLayer C0603                            2165.000      2170.000      90       
+C7         "100nF /25V"  TopLayer C0603                            2310.000      2170.000      270      
+C3         100uF/25V     TopLayer C0603                            2165.000      1930.315      90       
+C6         "100nF /25V"  TopLayer C0603                            1090.000      1715.000      90       
+C1         0.1uF/25V     TopLayer C0603                            1925.315      1025.000      180      
+B1         BEEP          TopLayer BEEP-9MM                         2390.000      210.000       0        
