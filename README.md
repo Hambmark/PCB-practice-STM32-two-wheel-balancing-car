@@ -6,6 +6,8 @@
 
 ![PCB](Docs/PCB.png)
 ![PCB_3D](Docs/PCB_3D.png)
+![PCB_REAL_BACK](Docs/PCB_REAL_back.jpg)
+![PCB_REAL_FRONT](Docs/PCB_REAL_front.jpg)
 
 ---
 
